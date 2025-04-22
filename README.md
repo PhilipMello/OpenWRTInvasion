@@ -1,5 +1,20 @@
 # Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4C, 3Gv2, 4Q, miWifi 3C...
 
+<details align="center">
+<summary><h1>💾 OpenWrt firmware</h1></summary>
+
+|  |  Projects |
+|-----:|-----------|
+| ![image](https://raw.githubusercontent.com/PhilipMello/media/main/xiaomi/xiaomi-mi-router-4c.png)| [Xaiomi Mi router 4C](https://downloads.openwrt.org/releases/24.10.1/targets/ramips/mt76x8/openwrt-24.10.1-ramips-mt76x8-xiaomi_mi-router-4c-squashfs-sysupgrade.bin) - 💾 OpenWrt firmware Version 24.10.1 (r28597-0425664679)|
+
+</details>
+
+### Alternative for CyberDuck (gFTP)
+```bash
+sudo apt install gftp  # On Ubuntu/Debian
+sudo yum install gftp  # On CentOS/Red Hat
+```
+
 ## How to run
 
 **NOTE: FROM VERSION `0.0.2` THE ROUTER NEEDS INTERNET ACCESS**. If you require to run the exploit without internet access please try version `0.0.1`. Find the versions here: https://github.com/acecilia/OpenWRTInvasion/releases
