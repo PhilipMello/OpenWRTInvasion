@@ -3,9 +3,10 @@
 <details align="center">
 <summary><h1>💾 OpenWrt firmware</h1></summary>
 
-|  |  Projects |
+| Model | Download |
 |-----:|-----------|
-| ![image](https://raw.githubusercontent.com/PhilipMello/media/main/xiaomi/xiaomi-mi-router-4c.png)| [Xaiomi Mi router 4C](https://downloads.openwrt.org/releases/24.10.1/targets/ramips/mt76x8/openwrt-24.10.1-ramips-mt76x8-xiaomi_mi-router-4c-squashfs-sysupgrade.bin) - 💾 OpenWrt firmware Version 24.10.1 (r28597-0425664679)|
+| ![image](https://raw.githubusercontent.com/PhilipMello/media/main/xiaomi/xiaomi-mi-router-4a-01.png)| [Xiaomi Mi Router 4A 100M Edition ](https://downloads.openwrt.org/releases/24.10.1/targets/ramips/mt76x8/openwrt-24.10.1-ramips-mt76x8-xiaomi_mi-router-4a-100m-squashfs-sysupgrade.bin) - 💾 OpenWrt firmware Version 24.10.1 (r28597-0425664679)|
+| ![image](https://raw.githubusercontent.com/PhilipMello/media/main/xiaomi/xiaomi-mi-router-4c-01.png)| [Xaiomi Mi router 4C](https://downloads.openwrt.org/releases/24.10.1/targets/ramips/mt76x8/openwrt-24.10.1-ramips-mt76x8-xiaomi_mi-router-4c-squashfs-sysupgrade.bin) - 💾 OpenWrt firmware Version 24.10.1 (r28597-0425664679)|
 
 </details>
 
